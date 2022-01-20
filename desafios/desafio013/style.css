@@ -1,20 +1,19 @@
-<style>
-        body{
-            font-family: Arial, Helvetica, sans-serif;
+
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    table{
+        border-collapse: collapse;
         }
-        table{
-            border-collapse: collapse;
-        }
-        tbody > tr:nth-child(2n-1){
-            color: blue;
+    tbody > tr:nth-child(2n-1){
+        color: blue;
             
-        }
-        td{
-            border: solid 1px black;
-            padding: 10px;
-            width: 150px;
-        }
-        tr{
-            text-align: center;
-        }
-</style>
+    }
+    td{
+        border: solid 1px black;
+        padding: 10px;
+        width: 150px;
+    }
+    tr{
+        text-align: center;
+    }
