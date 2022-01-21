@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;   
+}
+th{
+    border: solid 1px black;
+    padding: 5px; 
+    width: 100px;
+    background-color: gray; 
+}
+td{
+    border: solid 1px black;
+    text-align: center;
+    padding: 5px;
+    text-align: center;
+}
+tr>th#media{
+    text-align: left;
+    padding: 10px;
+}
